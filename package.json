@@ -1,6 +1,6 @@
 {
   "name": "@sppartan/loki-localforage-adapter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A localforage adapter for lokijs - https://github.com/techfort/LokiJS Based on included adapter for indexeddb - https://github.com/techfort/LokiJS/blob/master/src/loki-indexed-adapter.js",
   "main": "loki-localforage-adapter.js",
   "scripts": {
