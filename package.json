@@ -1,0 +1,20 @@
+{
+  "name": "@sppartan/loki-localforage-adapter",
+  "version": "1.0.0",
+  "description": "A localforage adapter for lokijs - https://github.com/techfort/LokiJS Based on included adapter for indexeddb - https://github.com/techfort/LokiJS/blob/master/src/loki-indexed-adapter.js",
+  "main": "loki-localforage-adapter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwojtera/loki-localforage-adapter.git"
+  },
+  "keywords": ["lokijs","localForage"],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mwojtera/loki-localforage-adapter/issues"
+  },
+  "homepage": "https://github.com/mwojtera/loki-localforage-adapter#readme"
+}
